@@ -1,7 +1,9 @@
 # ///////////////////////////////////////////////
 # //////// Welcome to HKUNO ////////
 # //////////////////////////////////////////////
+### This repository is to develop a text-based CLI game using C++/C.
 ENGG1340 / COMP 2113 Group Project 2023/2024 - Group #21
+
 ## Team members
 - Baek Seunghyeon (3035821659)
 - Fan Zihan (3035948471)
